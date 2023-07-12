@@ -10,8 +10,8 @@
   "author": "Ryan Lewis <ryan@ryanlewis.dev>",
   "license": "MIT",
   "dependencies": {
-    "@aws-sdk/client-dynamodb": "3.351.0",
-    "@aws-sdk/client-s3": "3.350.0",
+    "@aws-sdk/client-dynamodb": "3.363.0",
+    "@aws-sdk/client-s3": "3.363.0",
     "@aws-sdk/lib-dynamodb": "3.29.0",
     "@hapi/boom": "9.1.4",
     "@hapi/catbox": "11.1.1",
